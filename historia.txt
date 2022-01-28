@@ -1,4 +1,4 @@
-es es la historia de omar cardozo 
+xes es la historia de omar cardozo 
 
 el tiene 40 años 
 
@@ -13,3 +13,8 @@ pareciera que fuera gamer pero es mas poser
 hoy hablaremos de su adiccion a las drogas
 
 y su salida a la vida.
+
+cambios depues del format 
+
+de nuevo retomando el curso de git. 
+
