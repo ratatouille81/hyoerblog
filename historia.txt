@@ -18,3 +18,6 @@ cambios depues del format
 
 de nuevo retomando el curso de git. 
 
+cambios de version
+
+ 
